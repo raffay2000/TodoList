@@ -1,6 +1,6 @@
 Git commands which is used to push code :
 
-touch .gitignore
+touch .gitignore // file which you did not want in your github repository
 git config --global user.name "Raffay"
 git config --global user.email ar.raffaykhan1023@.gmail.com
 git init // Add .git file in stageing area
